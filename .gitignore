@@ -1,0 +1,8 @@
+# Source material with personal data — not for the public repo
+photo.jpeg
+LinkedIn Profile.pdf
+
+# Local working documents (specs, plans)
+docs/
+
+.DS_Store
