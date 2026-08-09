@@ -327,6 +327,10 @@ a { color: var(--terracotta-deep); }
 .contact-list { list-style: none; margin: 0; padding: 0; }
 .contact-list li { margin-bottom: 0.4rem; }
 .contact-list a { font-weight: 600; }
+/* On the blush band --muted (4.17:1) and --terracotta-deep (4.45:1) fall under 4.5:1 */
+.section-contact .section-intro,
+.section-contact .note { color: #6F6457; }
+.contact-list a { color: #9B5332; }
 
 /* Footer */
 .site-footer {
@@ -364,6 +368,8 @@ a { color: var(--terracotta-deep); }
   opacity: 0.85;
 }
 .lang-banner-close:hover { opacity: 1; }
+/* The terracotta ring is only 1.6:1 on the jade-deep banner */
+.lang-banner :focus-visible { outline-color: #fff; }
 
 /* Desktop */
 @media (min-width: 900px) {
