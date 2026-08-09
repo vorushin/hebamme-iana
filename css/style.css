@@ -382,6 +382,12 @@ a { color: var(--terracotta-deep); }
 @media (max-width: 899.98px) {
   .hero-photo { order: -1; width: min(300px, 78vw); }
 }
+/* Narrow phones (320px): brand + switcher need ~20px more than the row has */
+@media (max-width: 359.98px) {
+  .header-inner { gap: 0.5rem; }
+  .brand { font-size: 1.15rem; }
+  .lang-switcher a { padding: 0.15rem 0.4rem; font-size: 0.8rem; }
+}
 
 /* Reduced motion */
 @media (prefers-reduced-motion: reduce) {
