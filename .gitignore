@@ -5,5 +5,7 @@ LinkedIn Profile.pdf
 
 # Local working documents (specs, plans)
 docs/
+.superpowers/
+.claude/
 
 .DS_Store
