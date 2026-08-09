@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hebamme-iana.ch/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hebamme-iana.ch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hebamme-iana.ch/en/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://hebamme-iana.ch/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://hebamme-iana.ch/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hebamme-iana.ch/"/>
+  </url>
+  <url>
+    <loc>https://hebamme-iana.ch/en/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hebamme-iana.ch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hebamme-iana.ch/en/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://hebamme-iana.ch/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://hebamme-iana.ch/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hebamme-iana.ch/"/>
+  </url>
+  <url>
+    <loc>https://hebamme-iana.ch/uk/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hebamme-iana.ch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hebamme-iana.ch/en/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://hebamme-iana.ch/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://hebamme-iana.ch/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hebamme-iana.ch/"/>
+  </url>
+  <url>
+    <loc>https://hebamme-iana.ch/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hebamme-iana.ch/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hebamme-iana.ch/en/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://hebamme-iana.ch/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://hebamme-iana.ch/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hebamme-iana.ch/"/>
+  </url>
+</urlset>
